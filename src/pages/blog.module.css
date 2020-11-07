@@ -1,0 +1,17 @@
+
+.post {
+    margin: 1rem 0;
+    text-decoration: none;
+    color: grey;
+
+
+  }
+
+h2 {
+  text-decoration: none;
+}
+.posts {
+    list-style-type: none;
+    margin: 0;
+      padding-top: 2rem;
+}
