@@ -2,8 +2,8 @@ import React from 'react'
 import { Link } from 'gatsby'
 import Head from '../components/head'
 import Layout from '../components/layouts'
-import logo from '../media/34496-plants.gif'
-import indexStyles from './index.module.css'
+import logo from './34496-plants.gif'
+import indexStyles from '../pages/index.module.css'
 
 const IndexPage = () => {
   return (
