@@ -11,3 +11,8 @@
 .content {
   flex-grow: 1;
 }
+
+.vase {
+  width: 10px;
+  text-align: right;
+}

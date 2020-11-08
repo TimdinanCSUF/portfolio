@@ -7,11 +7,11 @@ const AboutPage = () => {
     <Layout>
     <Head title="About" />
       <h1>About</h1>
+      <h2>Background</h2>
+      <p>After a decade in the Web/Graphic design world, I have developed an instinct for consumer behavior and interactions.  This understanding of consumer behavior comes from my time building websites, logos, packaging, and application interfaces designed for aesthetic and functional use.</p>
+      <p>I have combined my experience as a designer/developer, with my degree in economics, into unique UI/UX solutions.</p>
       <h2>Education</h2>
       <p>Bachelor of Arts in economics, California State University Fullerton, 2020</p>
-      <h2>Background</h2>
-      <p>After a decade in the Web/Graphic design world spending my time building websites, logo's, packaging, and application interfaces, I have developed an instinct for consumer behavior and interactions.</p>
-      <p>This inspired me to go back to school and pursue a degree in economics, and expand my programming toolset.</p>
       <h2>Technical Skills</h2>
       <ul>
   <li>Python</li>

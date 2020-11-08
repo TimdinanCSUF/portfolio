@@ -7,7 +7,7 @@ const ContactPage = () => {
     <Layout>
     <Head title="Contact" />
       <h1>Contact</h1>
-      <p>Feel free to email timdinan@gmail.com , or send a message down below!</p>
+      <p>timdinan@gmail.com</p>
     </Layout>
   )
 }

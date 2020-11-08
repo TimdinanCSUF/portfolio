@@ -2,14 +2,17 @@ import React from 'react'
 import { Link } from 'gatsby'
 import Head from '../components/head'
 import Layout from '../components/layouts'
-
+import logo from '../media/34496-plants.gif'
+import indexStyles from './index.module.css'
 
 const IndexPage = () => {
   return (
     <Layout>
     <Head title="Home" />
 <h1>Hello.</h1>
-<h2>I'm a programmer who loves economics.</h2>
+<h2>I'm a web developer who loves economics.</h2>
+<p>Check it out! This site uses static rendering, which makes things work faster.  Learn more here.</p>
+<img className={indexStyles.vase} src={logo} alt="Logo" />
     </Layout>
   )
 }

@@ -5,3 +5,5 @@ type: "project"
 ---
 
 I built a react app that communicated with eth contracts.
+
+![ETHimg](./eth.png)
