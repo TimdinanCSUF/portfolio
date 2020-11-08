@@ -3,7 +3,7 @@ import { Link } from 'gatsby'
 import Head from '../components/head'
 import Layout from '../components/layouts'
 import logo from './34496-plants.gif'
-import indexStyles from '../pages/index.module.css'
+import indexStyles from './index.module.css'
 
 const IndexPage = () => {
   return (
