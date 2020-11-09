@@ -12,7 +12,6 @@ const AboutPage = () => {
       <p>With a passion for art and design, Tim spent my first few years out of high school pursuing art as a career, doing graphic design and web design while attending art school in Detroit, MI, at Wayne State University.  
 While working as a designer and front end developer, Tim continued to expand his coding skills via various boot camps and online resources.   In 2016 he started working for a few small tech start-ups doing mostly UI/UX work.  He saw these start-ups struggle with basic market concepts and consumer behavior and understanding, which inspired him to go back to school at night for economics.   In 2020, Tim graduated from California State University Fullerton with a degree in economics.  
 With an economist's knowledge, an artist's creativity, and a programmer's coding, Tim is now ready to help move the world in a positive direction. </p>
-      <p>I have combined my experience as a designer/developer, with my degree in economics, into unique UI/UX solutions.</p>
       <h2>Education</h2>
       <p>Bachelor of Arts in economics, California State University Fullerton, 2020</p>
       <h2>Technical Skills</h2>
