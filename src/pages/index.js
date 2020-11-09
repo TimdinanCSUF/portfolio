@@ -11,7 +11,7 @@ const IndexPage = () => {
     <Head title="Home" />
 <h1>Hello.</h1>
 <h2>I'm a web developer who loves economics.</h2>
-<p>Check it out! This site uses static rendering, which makes things work faster.  Learn more here.</p>
+<p>Check it out! This site uses static rendering, which makes things work faster.  Learn more <Link to="/projects/GatsbySite">here.</Link></p>
 <img className={indexStyles.vase} src={logo} alt="Logo" />
     </Layout>
   )
