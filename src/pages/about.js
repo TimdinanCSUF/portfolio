@@ -10,7 +10,7 @@ const AboutPage = () => {
       <h2>Background</h2>
 <p>Artist + Programmer + Economist = Tim</p>
 
-  <p>With a passion for art and design, Tim spent my first few years out of high school pursuing art as a career, doing graphic design and web design while attending art school in Detroit, MI, at Wayne State University.  
+  <p>With a passion for art and design, Tim spent his first few years out of high school pursuing art as a career, doing graphic design and web design while attending art school in Detroit, MI, at Wayne State University.  
 While working as a designer and front end developer, Tim continued to expand his coding skills via various boot camps and online resources.</p>
 <p>In 2016 he started working for a few small tech start-ups doing mostly UI/UX work.  He saw these start-ups struggle with basic market concepts and consumer behavior and understanding, which inspired him to go back to school at night for economics.  In 2020, Tim graduated from California State University Fullerton with a degree in economics.</p>  
 <p>With an economist's knowledge, an artist's creativity, and a programmer's coding, Tim is now ready to help move the world in a positive direction. </p>
