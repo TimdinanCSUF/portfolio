@@ -5,9 +5,9 @@ type: "blog"
 ---
 
 
-Today I learned how to create a PDF analytics report using Python and the with FPDF library following a tutorial by Keith Galli!
+Today I learned how to create a PDF analytics report using Python with FPDF library following a tutorial by Keith Galli!
 
-To start, I learned the basics of how to use FPDF after importing the library to my code.
+To start, I learned the basics of how to use FPDF by first importing the library to my code, and running a basic script.
 
 ![Fpdf](start.png)
 
