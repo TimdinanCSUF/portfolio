@@ -26,13 +26,12 @@ Running this, generates a pdf with my new formatted graphs!
 Now to add more pages using the command pdf.add_page, which allows me to add the content following onto a new page.  This gives me the ability to seperate pages, as well as add a title page that I can format using the FPDF library.
 ![coverpage](header2.png)
 
-After creating a professional looking header using Adobe Illustrator, I was able to place it at the top of the PDF in order to give this report, and any further reports generated with this script a professional look.  The heat map on the cover is generated using plotly, so that it will dynamically change based on state by state data.  One cool thing about plotly is that it can be used to create interactive maps as well!
+After creating a professional-looking header using Adobe Illustrator, I placed it at the top of the PDF to give this report and any further reports generated with this script a professional look. The heat map on the cover uses Plotly. Using Plotly to create this map means it will dynamically change based on state by state data. One cool thing about Plotly is that it creates interactive maps as well!
+At first, I was using a downloaded set of data, but to test for changes, I updated it to display data from the Johns Hopkins dataset from the previous day. 
 
-As I was creating this, we have been using a downloaded set of data, but as I updated it to display data from the Johns Hopkins dataset from the prior day, so now when I run the sript it will update the data to the most recent dataset.
+I also adjusted the display date on the cover using the command day = (datetime.today() - timedelta(days=1)).strftime("%m/%d/%y").replace("/0", "/").lstrip("0"). This command uses the datetime library, and formats our date into a more presentable style.
 
-I also adjusted the display date on the cover using the command     day = (datetime.today() - timedelta(days=1)).strftime("%m/%d/%y").replace("/0", "/").lstrip("0").  This command uses the datetime library, and formats our date into a more presentable style.
-
-Next I will be learing how to take these reports, automatically make this script run, and email the report to whomever needs it!
+Next, I will be learning how to take these reports, automatically make this script run, and email the report to whoever needs it!
 
 ## Topics Covered
 Tutorial for this by Keith Galli can be found here: https://www.youtube.com/watch?v=UmN2_R4KEg8&t=1771s
