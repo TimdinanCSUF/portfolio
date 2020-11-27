@@ -21,7 +21,7 @@ module.exports.createPages = async ({ graphql, actions }) => {
     const blogTemplate = path.resolve('./src/templates/blog.js')
     const res = await graphql(`
         query {
-  allMarkdownRemark(filter: {frontmatter: {type: {eq: "blog"}}}) {
+  allMarkdownRemark {
     edges {
       node {
         fields {
@@ -44,7 +44,8 @@ module.exports.createPages = async ({ graphql, actions }) => {
     })
 }
 
-module.exports.createPages = async ({ graphql, actions }) => {
+// projects section under construction
+/* module.exports.createPages = async ({ graphql, actions }) => { 
     const { createPage } = actions
     const projectTemplate = path.resolve('./src/templates/projects.js')
     const res = await graphql(`
@@ -71,3 +72,4 @@ module.exports.createPages = async ({ graphql, actions }) => {
         })
     })
 }
+*/
