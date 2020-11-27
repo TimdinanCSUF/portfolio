@@ -13,7 +13,7 @@ To start, I learned the basics of how to use FPDF after importing the library to
 
 Running that little snippet of code generated this PDF.
 
-![hello](.\hellowrld.png)
+![hello](hellowrld.png)
 
 Now to add some test data, the tutorial that I followed used covid-19 statistics provided by Johns Hopkins, so out of conviencince I used the same data.
 
@@ -21,10 +21,10 @@ Using these commands, I am able to take my data, format into graphs, and import 
 ![first](.\firstplot.png)
 
 Running this, generates a pdf with my new formatted graphs!
-![firstplot](.\plot1pdf.png)
+![firstplot](plot1pdf.png)
 
 Now to add more pages using the command pdf.add_page, which allows me to add the content following onto a new page.  This gives me the ability to seperate pages, as well as add a title page that I can format using the FPDF library.
-![coverpage](.\header2.png)
+![coverpage](header2.png)
 
 After creating a professional looking header using Adobe Illustrator, I was able to place it at the top of the PDF in order to give this report, and any further reports generated with this script a professional look.  The heat map on the cover is generated uses plotly, so that would dynamically change based on state by state data.  One cool thing about plotly is that it can be used to create interactive maps as well!
 
