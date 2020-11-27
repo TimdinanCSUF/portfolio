@@ -26,7 +26,7 @@ Running this, generates a pdf with my new formatted graphs!
 Now to add more pages using the command pdf.add_page, which allows me to add the content following onto a new page.  This gives me the ability to seperate pages, as well as add a title page that I can format using the FPDF library.
 ![coverpage](header2.png)
 
-After creating a professional looking header using Adobe Illustrator, I was able to place it at the top of the PDF in order to give this report, and any further reports generated with this script a professional look.  The heat map on the cover is generated uses plotly, so that would dynamically change based on state by state data.  One cool thing about plotly is that it can be used to create interactive maps as well!
+After creating a professional looking header using Adobe Illustrator, I was able to place it at the top of the PDF in order to give this report, and any further reports generated with this script a professional look.  The heat map on the cover is generated using plotly, so that it will dynamically change based on state by state data.  One cool thing about plotly is that it can be used to create interactive maps as well!
 
 As I was creating this, we have been using a downloaded set of data, but as I updated it to display data from the Johns Hopkins dataset from the prior day, so now when I run the sript it will update the data to the most recent dataset.
 
