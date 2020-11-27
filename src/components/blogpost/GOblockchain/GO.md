@@ -1,7 +1,7 @@
 ---
 title: "GO Blockchian"
 date: "2019"
-type: "blog"
+type: ""
 ---
 
 
