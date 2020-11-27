@@ -9,7 +9,7 @@ Today I learned how to create a PDF analytics report using Python and the with F
 
 To start, I learned the basics of how to use FPDF after importing the library to my code.
 
-![Fpdf](portfolio/src/components/blogpost/pythonpdf/start.png)
+![Fpdf](pythonpdf/start.png)
 
 Running that little snippet of code generated this PDF.
 
