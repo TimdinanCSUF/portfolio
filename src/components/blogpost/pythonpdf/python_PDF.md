@@ -18,7 +18,7 @@ Running that little snippet of code generated this PDF.
 Now to add some test data, the tutorial that I followed used covid-19 statistics provided by Johns Hopkins, so out of conviencince I used the same data.
 
 Using these commands, I am able to take my data, format into graphs, and import that graph into my PDF.
-![first](.\firstplot.png)
+![first](firstplot.png)
 
 Running this, generates a pdf with my new formatted graphs!
 ![firstplot](plot1pdf.png)
