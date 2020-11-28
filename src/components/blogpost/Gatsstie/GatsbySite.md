@@ -1,6 +1,6 @@
 ---
 title: "Gatsby Site"
-date: "2020"
+date: "10/2020"
 type: "Blog"
 ---
 
