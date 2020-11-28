@@ -1,6 +1,6 @@
 ---
 title: "Pandas for Data Science - Part 1"
-date: "11/2020"
+date: "11/27/2020"
 type: "blog"
 ---
 
