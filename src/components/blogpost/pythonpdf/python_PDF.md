@@ -1,6 +1,6 @@
 ---
 title: "Python PDF Generator : Automated Data Reports"
-date: "11/2020"
+date: "11/25/2020"
 type: "blog"
 ---
 
