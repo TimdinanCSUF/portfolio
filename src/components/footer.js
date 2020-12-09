@@ -15,6 +15,16 @@ const Footer = () => {
 
     return (
         <footer className={footerStyles.footer}>
+                    <div className={footerStyles.icons}>
+            <a href="https://github.com/TimdinanCSUF">
+            <img className={footerStyles.icon} src={gitLogo} alt="gitLogo" />
+            </a>
+            <a href="https://www.linkedin.com/in/timothy-dinan/">
+            <img className={footerStyles.icon} src={linklog} alt="linkLogo" />
+
+            </a>
+
+            </div>
             <p>Created by {data.site.siteMetadata.author}, © 2019</p>
         </footer>
     )
