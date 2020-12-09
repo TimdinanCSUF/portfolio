@@ -3,7 +3,7 @@
   Tims Personal Site
 </h1>
 
-## 🚀 Quick start
+## 🚀 Here is how I got started!
 
 1.  **Create a Gatsby site.**
 
