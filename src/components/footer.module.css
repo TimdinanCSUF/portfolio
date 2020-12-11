@@ -9,8 +9,10 @@
   clear: right;
   display: flex;
   margin: 0;
+  margin-right: 100px;
 }
 
 .icon {
   margin-right: 1.3rem;
+  padding-left: 10px;
 }
