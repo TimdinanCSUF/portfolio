@@ -11,7 +11,7 @@ const IndexPage = () => {
     <Head title="Home" />
 <h1>Hello.</h1>
 <h2>I'm a web developer who loves economics.</h2>
-<p>Check out my blog <Link to="/blog">here.</Link>, and please feel free to contact me with any questions or inquiries <Link to="/contact">here.</Link>.</p>
+<p>Check out my<Link to="/blog">blog</Link>, and please feel free to contact me with any questions or inquiries <Link to="/contact">here.</Link></p>
 <img className={indexStyles.vase} src={logo} alt="Logo" />
     </Layout>
   )
