@@ -8,7 +8,7 @@ const AboutPage = () => {
     <Head title="About" />
       <h1>About</h1>
       <h2>Background</h2>
-<p>Artist + Programmer + Economist</p>
+<p>Artist + Developer + Economist</p>
       <h2>Education</h2>
       <p>Bachelor of Arts in economics, California State University Fullerton, 2020</p>
       <h2>Technical Skills</h2>
@@ -17,7 +17,6 @@ const AboutPage = () => {
  <li>JS / React Js</li>
  <li>GOlang</li>
  <li>HTML/CSS</li>
- <li>c++</li>
  <li>SQL</li>
  <li>solidity</li>
  <li>R</li>
