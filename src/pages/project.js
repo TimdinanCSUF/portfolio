@@ -4,15 +4,17 @@ import { Link, graphql, useStaticQuery } from 'gatsby'
 import blogStyles from './blog.module.css'
 import Head from '../components/head'
 
-const ProjectsPage = () => {
+const BlogPage = () => {
     const data= useStaticQuery(graphql`
-      query {
-  allMarkdownRemark(filter: {frontmatter: {type: {eq: "project"}}}, sort: {order: DESC, fields: frontmatter___date}) {
+{
+  allMarkdownRemark(filter: {frontmatter: {type: {eq: "project"}}}) {
     edges {
       node {
         frontmatter {
           title
           date
+          type
+          brief
         }
         fields {
           slug
@@ -21,7 +23,6 @@ const ProjectsPage = () => {
     }
   }
 }
-
       `)
 
       return (
@@ -32,9 +33,9 @@ const ProjectsPage = () => {
                 {data.allMarkdownRemark.edges.map((edge) => {
                     return (
                         <li>
-                            <Link className={blogStyles.post} to={`/projects/${edge.node.fields.slug}`}>
+                            <Link className={blogStyles.post} to={`/blog/${edge.node.fields.slug}`}>
                                 <h2>{edge.node.frontmatter.title}</h2>
-                                <p>{edge.node.frontmatter.date}</p>
+                                 <p>{edge.node.frontmatter.brief}</p>
                             </Link>
                         </li>
                     )
@@ -44,4 +45,4 @@ const ProjectsPage = () => {
     )
 }
 
-export default ProjectsPage
+export default BlogPage

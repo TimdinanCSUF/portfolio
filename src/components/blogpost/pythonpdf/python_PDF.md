@@ -1,7 +1,8 @@
 ---
 title: "Python PDF Generator : Automated Data Reports"
 date: "11/25/2020"
-type: "blog"
+type: "project"
+brief: "This project uses the fpdf python library to generate formatted PDF's with Python!"
 issue: "002"
 ---
 
