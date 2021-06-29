@@ -1,7 +1,7 @@
 ---
 title: "SQL Generated Content"
 type: "project"
-brief: "The content on this page is actually generated automatically using Graphql and SQL!"
+brief: "The content on this page is generated automatically using Graphql and SQL!"
 ---
 
 
