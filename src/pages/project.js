@@ -1,7 +1,7 @@
 import React from 'react'
 import Layout from '../components/layouts'
 import { Link, graphql, useStaticQuery } from 'gatsby'
-import blogStyles from './blog.module.css'
+import projectStyles from './project.module.css'
 import Head from '../components/head'
 
 const BlogPage = () => {
@@ -29,13 +29,13 @@ const BlogPage = () => {
         <Layout>
         <Head title="Projects" />
             <h1>Projects</h1>
-            <ol className={blogStyles.posts}>
+            <ol className={projectStyles.posts}>
                 {data.allMarkdownRemark.edges.map((edge) => {
                     return (
                         <li>
-                            <Link className={blogStyles.post} to={`/blog/${edge.node.fields.slug}`}>
-                                <h2>{edge.node.frontmatter.title}</h2>
-                                 <p>{edge.node.frontmatter.brief}</p>
+                            <Link className={projectStyles.post} to={`/blog/${edge.node.fields.slug}`}>
+                                <h2 className={projectStyles.title}>{edge.node.frontmatter.title}</h2>
+                                 <p className={projectStyles.breif}>{edge.node.frontmatter.brief}</p>
                             </Link>
                         </li>
                     )

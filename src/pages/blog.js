@@ -32,8 +32,8 @@ const BlogPage = () => {
                     return (
                         <li>
                             <Link className={blogStyles.post} to={`/blog/${edge.node.fields.slug}`}>
-                                <h2>{edge.node.frontmatter.title}</h2>
                                 <p>{edge.node.frontmatter.date}</p>
+                                <h3>{edge.node.frontmatter.title}</h3>
                             </Link>
                         </li>
                     )

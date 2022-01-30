@@ -7,10 +7,10 @@
 
   }
 
-h3 {
+.title {
   text-decoration: none;
-  padding-bottom: 1rem;
-  margin-top: -1rem;
+  padding-bottom: 0rem;
+
 }
 
 
@@ -20,7 +20,8 @@ h3 {
       padding-top: 0rem;
 }
 
-p {
-
+.breif {
+  margin-top: -1rem;
+  padding-bottom: 2rem;
 
 }
