@@ -1,6 +1,6 @@
 ---
 title: "Graphic Work"
-type: "Design"
+type: "design"
 brief: "Welcome to my portfolio, featuring a selection of my original graphic works."
 ---
 
