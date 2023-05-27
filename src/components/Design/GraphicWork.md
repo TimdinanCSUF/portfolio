@@ -1,5 +1,5 @@
 ---
-title: "Graphic Work Portfolio"
+title: "Graphic Work"
 type: "Design"
 brief: "Welcome to my portfolio, featuring a selection of my original graphic works."
 ---
