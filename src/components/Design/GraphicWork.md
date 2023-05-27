@@ -8,7 +8,7 @@ brief: "Welcome to my portfolio, featuring a selection of my original graphic wo
 A set of grahics and projects created for the Groove Shoppe brand.
 
 ![Pocket Graphic for shirt](Groove_Shoppe_pocket_high-01.png)
-![Keep on Groovin design concept](keeo_500-01.png)
+![Keep on Groovin design concept](keep_500-01.png)
 ![Keep on Groovin Tee-Shirt](keep_groovshirt.png)
 
 
