@@ -23,7 +23,10 @@ A set of images illustrating my work on the Easy Wax brand, from logo design to 
 ![Easy Wax CBD Component](cbd.png)
 ![Easy Wax Product Image](candle.jpeg)
 ![Easy Wax Packaging Design](GRANNY112g_final.png)
-![Easy Wax Logo](logo-01.png)
+
+## Labelstain Logo
+A set of grahics and projects created for the Labelstain brand.
+![Main logo](logo-01.png)
 
 ## Offshore Window Cleaning - Logo Design
 A custom logo designed for Offshore Window Cleaning.
