@@ -4,6 +4,19 @@ type: "design"
 brief: "Welcome to my portfolio, featuring a selection of my original graphic works."
 ---
 
+## Groove Shoppe
+A set of grahics and projects created for the Groove Shoppe brand.
+
+![Pocket Graphic for shirt](Groove_Shoppe_pocket_high-01.png)
+![Keep on Groovin design concept](keeo_500-01.png)
+![Keep on Groovin Tee-Shirt](keep_groovshirt.png)
+
+
+## MIZER MICROS
+A set of grahics and projects created for the Mizer Micros brand.
+
+![Mizer_Micros Logo.png](Mizer_Micros.png)
+
 ## Easy Wax - Original Logo/Product Design
 A set of images illustrating my work on the Easy Wax brand, from logo design to product imaging. 
 
