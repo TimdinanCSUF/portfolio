@@ -11,6 +11,9 @@ A set of grahics and projects created for the Groove Shoppe brand.
 ![Keep on Groovin design concept](keep_500-01.png)
 ![Keep on Groovin Tee-Shirt](keep_groovshirt.png)
 
+##HURON
+Logo and Graphic for clothing brand.
+![HURON](huron-ez.gif)
 
 ## MIZER MICROS
 A set of grahics and projects created for the Mizer Micros brand.
