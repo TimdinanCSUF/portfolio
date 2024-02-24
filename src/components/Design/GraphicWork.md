@@ -22,7 +22,7 @@ Vector and Graphic created for Mark Arminski
 
 ##Dig.LIMITED
 LOGO and Graphic Created for DIG.LIMITED 
-![dig](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hnbmpmYmRkMTdhMzYxbnljODFpdWpwYnVibTVybmoxNTExa2NkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9I2CfUoPa11mA9Dssa/giphy_s.gif)
+![dig](https://media4.giphy.com/media/9I2CfUoPa11mA9Dssa/giphy.gif)
 
 ## MIZER MICROS
 A set of grahics and projects created for the Mizer Micros brand.
