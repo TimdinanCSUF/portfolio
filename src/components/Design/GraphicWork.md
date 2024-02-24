@@ -13,7 +13,7 @@ A set of grahics and projects created for the Groove Shoppe brand.
 
 ##HURON
 Logo and Graphic for clothing brand.
-![HURON](huron-ez.gif)
+![HURON](https://media3.giphy.com/media/XwkXXIhMceDztEa1qN/giphy.gif)
 
 ## MIZER MICROS
 A set of grahics and projects created for the Mizer Micros brand.
